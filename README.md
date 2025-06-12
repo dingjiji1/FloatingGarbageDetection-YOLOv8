@@ -21,3 +21,5 @@ Torch 2.0.0
 Torchvision 0.15.1  
 Torchaudio 2.0.1  
 CUDA 11.8  
+
+The dataset is too large to be uploaded, please contact me to get it if you need it.
