@@ -7,8 +7,6 @@ from ultralytics import YOLO
 import os
 os.environ['KMP_DUPLICATE_LIB_OK']='TRUE'
 
-import torch
-print(torch.__version__)
 
 if __name__ == '__main__':
     model = YOLO('./ultralytics/cfg/models/v8/yolov8-C2f-ScConv.yaml')
