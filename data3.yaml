@@ -1,0 +1,19 @@
+
+path: D:\hy\FloatingGarbageDetection\dataset3
+
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+#  0: no-mask
+#  1: mask
+  0: can
+  1: foam
+  2: plastic
+  3: plastic bottle
+  4: unknow
+
+
+

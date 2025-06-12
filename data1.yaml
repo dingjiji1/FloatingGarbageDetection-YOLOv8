@@ -1,0 +1,10 @@
+
+path: D:\hy\FloatingGarbageDetection\dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+#Classes
+names:
+  0: floater
